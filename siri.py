@@ -1,4 +1,4 @@
 import streamlit as st
 st.header("puppy")
 st.write("puppy")
-st.image("m/https://dogtime.com/wp-content/uploads/sites/12/2020/11/GettyImages-512366437-e1688677726208.jpg?w=1024",caption="puppy")
+st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fdogtime.com%2Fpuppies%2F255-puppies&psig=AOvVaw3hRjKwaGovMPUIY26FQzzr&ust=1705121173770000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCBs8CF14MDFQAAAAAdAAAAABAI",caption="puppy")
